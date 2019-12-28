@@ -1,0 +1,1422 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Áo sơ mi",
+      "slug": "somi-nam",
+      "type": "nam"
+    },
+    {
+      "id": 2,
+      "name": "Áo thun",
+      "slug": "ao-thun-nam",
+      "type": "nam"
+    },
+    {
+      "id": 3,
+      "name": "Áo khoác",
+      "slug": "ao-khoac-nam",
+      "type": "nam"
+    },
+    {
+      "id": 4,
+      "name": "Quần Jeans",
+      "slug": "quan-jean-nam",
+      "type": "nam"
+    },
+    {
+      "id": 5,
+      "name": "Giày",
+      "slug": "giay-nam",
+      "type": "nam"
+    },
+    {
+      "id": 6,
+      "name": "Vest",
+      "slug": "vest-nam",
+      "type": "nam"
+    },
+    {
+      "id": 7,
+      "name": "Áo sơ mi",
+      "slug": "somi-nu",
+      "type": "nu"
+    },
+    {
+      "id": 8,
+      "name": "Áo thun",
+      "slug": "ao-thun-nu",
+      "type": "nu"
+    },
+    {
+      "id": 9,
+      "name": "Áo khoác",
+      "slug": "ao-khoac-nu",
+      "type": "nu"
+    },
+    {
+      "id": 10,
+      "name": "Quần Jeans",
+      "slug": "quan-jean-nu",
+      "type": "nu"
+    },
+    {
+      "id": 11,
+      "name": "Giày",
+      "slug": "giay-nu",
+      "type": "nu"
+    },
+    {
+      "id": 12,
+      "name": "Túi xách",
+      "slug": "tui-xach",
+      "type": "nu"
+    },
+    {
+      "id": 12,
+      "name": "Ví cầm tay",
+      "slug": "vi-cam-tay",
+      "type": "nu"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Áo sơ mi MS 17B7568",
+      "img": "images/home/thoitrangnu/somi/somi-nu-1.jpg",
+      "price": 47,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "name": "Áo sơ mi pha bèo MS 17M4802",
+      "img": "images/home/thoitrangnu/somi/somi-nu-2.jpg",
+      "price": 38,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "name": "Áo sơ mi MS 17M4960",
+      "img": "images/home/thoitrangnu/somi/somi-nu-3.jpg",
+      "price": 38,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 2
+    },
+    {
+      "id": 4,
+      "name": "Áo sơ mi MS 17B7539",
+      "img": "images/home/thoitrangnu/somi/somi-nu-4.jpg",
+      "price": 32,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 5,
+      "name": "Áo sơ mi MS 17M4946",
+      "img": "images/home/thoitrangnu/somi/somi-nu-5.jpg",
+      "price": 49,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 6,
+      "name": "Áo sơ mi MS 17M4903",
+      "img": "images/home/thoitrangnu/somi/somi-nu-6.jpg",
+      "price": 33,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 2
+    },
+    {
+      "id": 7,
+      "name": "Bít mũi nhọn 0062",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-1.jpg",
+      "price": 10,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 8,
+      "name": "Bít mũi tròn 0006",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-2.jpg",
+      "price": 12,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 9,
+      "name": "Sandal nhọn 0093",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-3.jpg",
+      "price": 23,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 2
+    },
+    {
+      "id": 10,
+      "name": "Bít hở mũi 0007",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-4.jpg",
+      "price": 15,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 12,
+      "name": "Dép xẹp 0031",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-5.jpg",
+      "price": 19,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 13,
+      "name": "Boot 0003",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-6.jpg",
+      "price": 29,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 14,
+      "name": "Boot 0002",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-7.jpg",
+      "price": 29,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 2
+    },
+    {
+      "id": 15,
+      "name": "Giày búp bê",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-8.jpg",
+      "price": 11,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 16,
+      "name": "Sandal nhọn 0083",
+      "img": "images/home/thoitrangnu/giaydep/giay-dep-9.jpg",
+      "price": 19,
+      "slug": "giay-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 17,
+      "name": "Balo nữ nắp gập BP0021",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-1.jpg",
+      "price": 20,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 18,
+      "name": "Handbag 0059",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-2.jpg",
+      "price": 23,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 19,
+      "name": "Clutch 0015",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-3.jpg",
+      "price": 25,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 18,
+      "name": "Handbag 0091",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-4.jpg",
+      "price": 27,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 19,
+      "name": "Handbag 0092",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-5.jpg",
+      "price": 29,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 20,
+      "name": "Tote 0029",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-6.jpg",
+      "price": 23,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 21,
+      "name": "Shoulder 0047",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-7.jpg",
+      "price": 22,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 22,
+      "name": "Shoulder 0046",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-8.jpg",
+      "price": 22,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 23,
+      "name": "Shoulder 0054",
+      "img": "images/home/thoitrangnu/tuixach/tui-xach-9.jpg",
+      "price": 23,
+      "slug": "tui-xach",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 24,
+      "name": "Ví cầm tay da vân chìm",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-1.jpg",
+      "price": 12,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 25,
+      "name": "Ví cầm tay khóa gập",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-2.jpg",
+      "price": 11,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 26,
+      "name": "Ví cầm tay nhiêu ngăn",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-3.jpg",
+      "price": 20,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 27,
+      "name": "Ví cầm tay đa năng",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-4.jpg",
+      "price": 19,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 28,
+      "name": "Ví cầm tay khóa bấm",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-5.jpg",
+      "price": 13,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 29,
+      "name": "Ví cầm tay khóa logo",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-6.jpg",
+      "price": 12,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 30,
+      "name": "Ví cầm tay dập chỉ viền",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-7.jpg",
+      "price": 15,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 31,
+      "name": "Ví cầm tay da kim tuyến",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-8.jpg",
+      "price": 23,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 32,
+      "name": "Ví cầm tay khóa tròn",
+      "img": "images/home/thoitrangnu/vicamtay/vi-cam-tay-9.jpg",
+      "price": 12,
+      "slug": "vi-cam-tay",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 33,
+      "name": "Áo sơ mi MS 17M4670",
+      "img": "images/home/thoitrangnu/somi/somi-nu-7.jpg",
+      "price": 32,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 34,
+      "name": "Áo sơ mi MS 16M5089",
+      "img": "images/home/thoitrangnu/somi/somi-nu-8.jpg",
+      "price": 27,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 35,
+      "name": "Áo sơ mi MS 17M4670",
+      "img": "images/home/thoitrangnu/somi/somi-nu-9.jpg",
+      "price": 30,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 36,
+      "name": "Áo thun cổ vuông MS 58B7429",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-1.jpg",
+      "price": 24,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 37,
+      "name": "Áo thun MS 58B6656",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-2.jpg",
+      "price": 23,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 38,
+      "name": "Áo thun MS 58B7603",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-3.jpg",
+      "price": 27,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 39,
+      "name": "Áo thun MS 58B7523",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-4.jpg",
+      "price": 29,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 40,
+      "name": "Áo thun MS 58B7433",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-5.jpg",
+      "price": 28,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 41,
+      "name": "Áo thun MS 57M4885",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-6.jpg",
+      "price": 21,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 42,
+      "name": "Áo thun MS 58M4884",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-7.jpg",
+      "price": 26,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 43,
+      "name": "Áo thun MS 58M4884",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-8.jpg",
+      "price": 25,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 44,
+      "name": "Áo thun MS 58B7433",
+      "img": "images/home/thoitrangnu/aothun/ao-thun-nu-9.jpg",
+      "price": 34,
+      "slug": "ao-thun-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 45,
+      "name": "Áo khoác len MS 77B7172",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-1.jpg",
+      "price": 75,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 46,
+      "name": "Áo khoác MS 70M5034",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-2.jpg",
+      "price": 67,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 47,
+      "name": "Trench Coat MS 71B74042",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-3.jpg",
+      "price": 107,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 48,
+      "name": "Áo khoác MS 71B7247",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-4.jpg",
+      "price": 52,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 49,
+      "name": "Áo khoác MS 71B7404",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-5.jpg",
+      "price": 120,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 50,
+      "name": "Áo khoác MS 71B7247",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-6.jpg",
+      "price": 55,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 51,
+      "name": "Áo khoác MS 71M5104",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-7.jpg",
+      "price": 118,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 52,
+      "name": "Áo khoác MS 72M3976",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-8.jpg",
+      "price": 249,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 53,
+      "name": "Áo khoác MS 70M5034",
+      "img": "images/home/thoitrangnu/aokhoac/ao-khoac-nu-9.jpg",
+      "price": 158,
+      "slug": "ao-khoac-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 54,
+      "name": "Quần jeans MS 25B7161",
+      "img": "images/home/thoitrangnu/quanjean/quan-jean-1.jpg",
+      "price": 28,
+      "slug": "quan-jean-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 55,
+      "name": "Quần jeans MS 25B7579",
+      "img": "images/home/thoitrangnu/quanjean/quan-jean-2.jpg",
+      "price": 37,
+      "slug": "quan-jean-nu",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 56,
+      "name": "Quần jeans MS 25B7579",
+      "img": "images/home/thoitrangnu/quanjean/quan-jean-3.jpg",
+      "price": 32,
+      "slug": "quan-jean-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 55,
+      "name": "Quần jeans MS 25P0074",
+      "img": "images/home/thoitrangnu/quanjean/quan-jean-4.jpg",
+      "price": 31,
+      "slug": "quan-jean-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 56,
+      "name": "Quần jeans ống loe MS 25B7180",
+      "img": "images/home/thoitrangnu/quanjean/quan-jean-5.jpg",
+      "price": 41,
+      "slug": "quan-jean-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 55,
+      "name": "Quần jeans DENIM MS 25B7178",
+      "img": "images/home/thoitrangnu/quanjean/quan-jean-6.jpg",
+      "price": 35,
+      "slug": "quan-jean-nu",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 56,
+      "name": "Áo sơ mi MS 17E2262",
+      "img": "images/home/thoitrangnam/somi/somi-nam-1.jpg",
+      "price": 39,
+      "slug": "somi-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 57,
+      "name": "Áo sơ mi MS 17E2261",
+      "img": "images/home/thoitrangnam/somi/somi-nam-2.jpg",
+      "price": 41,
+      "slug": "somi-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 58,
+      "name": "Áo sơ mi MS 17E2270",
+      "img": "images/home/thoitrangnam/somi/somi-nam-3.jpg",
+      "price": 42,
+      "slug": "somi-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 59,
+      "name": "Áo sơ mi MS 16E1956",
+      "img": "images/home/thoitrangnam/somi/somi-nam-4.jpg",
+      "price": 35,
+      "slug": "somi-nam",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 60,
+      "name": "Áo sơ mi MS 16E1917",
+      "img": "images/home/thoitrangnam/somi/somi-nam-5.jpg",
+      "price": 38,
+      "slug": "somi-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 56,
+      "name": "Áo sơ mi MS 16E2226",
+      "img": "images/home/thoitrangnam/somi/somi-nam-6.jpg",
+      "price": 29,
+      "slug": "somi-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 57,
+      "name": "Áo thun MS 58E2146",
+      "img": "images/home/thoitrangnam/aothun/ao-thun-nam-1.jpg",
+      "price": 22,
+      "slug": "ao-thun-nam",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 58,
+      "name": "Áo thun MS 58E2258",
+      "img": "images/home/thoitrangnam/aothun/ao-thun-nam-2.jpg",
+      "price": 24,
+      "slug": "ao-thun-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 59,
+      "name": "Áo thun MS 58E2215",
+      "img": "images/home/thoitrangnam/aothun/ao-thun-nam-3.jpg",
+      "price": 19,
+      "slug": "ao-thun-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 60,
+      "name": "Áo thun MS 57E2326",
+      "img": "images/home/thoitrangnam/aothun/ao-thun-nam-4.jpg",
+      "price": 17,
+      "slug": "ao-thun-nam",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 61,
+      "name": "Áo thun MS 57E2299",
+      "img": "images/home/thoitrangnam/aothun/ao-thun-nam-5.jpg",
+      "price": 25,
+      "slug": "ao-thun-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 62,
+      "name": "Áo thun MS 58E2176",
+      "img": "images/home/thoitrangnam/aothun/ao-thun-nam-6.jpg",
+      "price": 27,
+      "slug": "ao-thun-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 63,
+      "name": "Áo khoác MS 70E1993",
+      "img": "images/home/thoitrangnam/aokhoac/ao-khoac-nam-1.jpg",
+      "price": 55,
+      "slug": "ao-khoac-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 64,
+      "name": "Áo khoác MS 71E2227",
+      "img": "images/home/thoitrangnam/aokhoac/ao-khoac-nam-2.jpg",
+      "price": 179,
+      "slug": "ao-khoac-nam",
+      "status": true,
+      "rating": 2
+    },
+    {
+      "id": 65,
+      "name": "Áo khoác MS 70E1651",
+      "img": "images/home/thoitrangnam/aokhoac/ao-khoac-nam-3.jpg",
+      "price": 249,
+      "slug": "ao-khoac-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 66,
+      "name": "Áo khoác MS 71E2227",
+      "img": "images/home/thoitrangnam/aokhoac/ao-khoac-nam-4.jpg",
+      "price": 215,
+      "slug": "ao-khoac-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 67,
+      "name": "Áo khoác MS 71E2252",
+      "img": "images/home/thoitrangnam/aokhoac/ao-khoac-nam-5.jpg",
+      "price": 220,
+      "slug": "ao-khoac-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 68,
+      "name": "Áo khoác MS 70E1676",
+      "img": "images/home/thoitrangnam/aokhoac/ao-khoac-nam-6.jpg",
+      "price": 169,
+      "slug": "ao-khoac-nam",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 69,
+      "name": "Quần jeans MS 25E1933",
+      "img": "images/home/thoitrangnam/quanjean/quan-jean-nam-1.jpg",
+      "price": 35,
+      "slug": "quan-jean-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 70,
+      "name": "Quần jeans MS 25E1965",
+      "img": "images/home/thoitrangnam/quanjean/quan-jean-nam-2.jpg",
+      "price": 37,
+      "slug": "quan-jean-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 71,
+      "name": "Quần jeans MS 25E1343",
+      "img": "images/home/thoitrangnam/quanjean/quan-jean-nam-3.jpg",
+      "price": 29,
+      "slug": "quan-jean-nam",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 72,
+      "name": "Quần jeans MS 26E1933",
+      "img": "images/home/thoitrangnam/quanjean/quan-jean-nam-4.jpg",
+      "price": 39,
+      "slug": "quan-jean-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 73,
+      "name": "Quần jeans MS 25E5933",
+      "img": "images/home/thoitrangnam/quanjean/quan-jean-nam-5.jpg",
+      "price": 23,
+      "slug": "quan-jean-nam",
+      "status": true,
+      "rating": 3
+    },
+    {
+      "id": 74,
+      "name": "Quần jeans MS 25E1933",
+      "img": "images/home/thoitrangnam/quanjean/quan-jean-nam-6.jpg",
+      "price": 36,
+      "slug": "quan-jean-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 75,
+      "name": "Vest MS 67E2253",
+      "img": "images/home/thoitrangnam/vest/vest-1.jpg",
+      "price": 349,
+      "slug": "vest-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 76,
+      "name": "Vest MS 67E2353",
+      "img": "images/home/thoitrangnam/vest/vest-2.jpg",
+      "price": 385,
+      "slug": "vest-nam",
+      "status": true,
+      "rating": 5
+    },
+    {
+      "id": 77,
+      "name": "Vest MS 67E2553",
+      "img": "images/home/thoitrangnam/vest/vest-3.jpg",
+      "price": 449,
+      "slug": "vest-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 78,
+      "name": "Vest MS 67E2853",
+      "img": "images/home/thoitrangnam/vest/vest-4.jpg",
+      "price": 569,
+      "slug": "vest-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 79,
+      "name": "Vest MS 67E9253",
+      "img": "images/home/thoitrangnam/vest/vest-5.jpg",
+      "price": 458,
+      "slug": "vest-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 80,
+      "name": "Vest MS 67E2253",
+      "img": "images/home/thoitrangnam/vest/vest-6.jpg",
+      "price": 299,
+      "slug": "vest-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 81,
+      "name": "Giày da MS 67E2453",
+      "img": "images/home/thoitrangnam/giay/giay-nam-1.jpg",
+      "price": 55,
+      "slug": "giay-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 82,
+      "name": "Giày da công sở MS 67E2413",
+      "img": "images/home/thoitrangnam/giay/giay-nam-2.jpg",
+      "price": 37,
+      "slug": "giay-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 83,
+      "name": "Giày da cao cột dây MS 67E2443",
+      "img": "images/home/thoitrangnam/giay/giay-nam-3.jpg",
+      "price": 29,
+      "slug": "giay-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 84,
+      "name": "Giày thể thao cao cấp MS 67E2953",
+      "img": "images/home/thoitrangnam/giay/giay-nam-4.jpg",
+      "price": 65,
+      "slug": "giay-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 85,
+      "name": "Giày da nhập khẩu MS 67E2458",
+      "img": "images/home/thoitrangnam/giay/giay-nam-5.jpg",
+      "price": 39,
+      "slug": "giay-nam",
+      "status": true,
+      "rating": 4
+    },
+    {
+      "id": 86,
+      "name": "Giày da thời trang MS 67E2753",
+      "img": "images/home/thoitrangnam/giay/giay-nam-6.jpg",
+      "price": 35,
+      "slug": "giay-nam",
+      "status": true,
+      "rating": 5
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "name": "Áo sơ mi MS 17B7568",
+      "img": "images/home/thoitrangnu/somi/somi-nu-1.jpg",
+      "price": 47,
+      "slug": "somi-nu",
+      "status": true,
+      "rating": 5
+    }
+  ],
+  "order_details": [
+    {
+      "1": "",
+      "id": 1
+    },
+    {
+      "2": "",
+      "id": 2
+    },
+    {
+      "3": "",
+      "id": 3
+    },
+    {
+      "0": "",
+      "id": 4
+    },
+    {
+      "1": "",
+      "id": 5
+    },
+    {
+      "2": "",
+      "id": 6
+    },
+    {
+      "3": "",
+      "id": 7
+    },
+    {
+      "4": "",
+      "id": 8
+    },
+    {
+      "1": "",
+      "id": 9
+    },
+    {
+      "2": "",
+      "id": 10
+    },
+    {
+      "1": "",
+      "id": 11
+    },
+    {
+      "2": "",
+      "id": 12
+    },
+    {
+      "3": "",
+      "id": 13
+    },
+    {
+      "0": "",
+      "id": 14
+    },
+    {
+      "1": "",
+      "id": 15
+    },
+    {
+      "2": "",
+      "id": 16
+    },
+    {
+      "3": "",
+      "id": 17
+    },
+    {
+      "4": "",
+      "id": 18
+    },
+    {
+      "0": "",
+      "id": 19
+    },
+    {
+      "1": "",
+      "id": 20
+    },
+    {
+      "2": "",
+      "id": 21
+    },
+    {
+      "3": "",
+      "id": 22
+    },
+    {
+      "0": "",
+      "id": 23
+    },
+    {
+      "1": "",
+      "id": 24
+    },
+    {
+      "2": "",
+      "id": 25
+    },
+    {
+      "1": "",
+      "id": 26
+    },
+    {
+      "2": "",
+      "id": 27
+    },
+    {
+      "0": "",
+      "id": 28
+    },
+    {
+      "1": "",
+      "id": 29
+    },
+    {
+      "2": "",
+      "id": 30
+    },
+    {
+      "3": "",
+      "id": 31
+    },
+    {
+      "4": "",
+      "id": 32
+    },
+    {
+      "5": "",
+      "id": 33
+    },
+    {
+      "6": "",
+      "id": 34
+    },
+    {
+      "1": "",
+      "id": 35
+    },
+    {
+      "2": "",
+      "id": 36
+    },
+    {
+      "3": "",
+      "id": 37
+    },
+    {
+      "4": "",
+      "id": 38
+    },
+    {
+      "1": "",
+      "id": 39
+    },
+    {
+      "2": "",
+      "id": 40
+    },
+    {
+      "1": "",
+      "id": 41
+    },
+    {
+      "2": "",
+      "id": 42
+    },
+    {
+      "1": "",
+      "id": 43
+    },
+    {
+      "2": "",
+      "id": 44
+    },
+    {
+      "3": "",
+      "id": 45
+    },
+    {
+      "4": "",
+      "id": 46
+    },
+    {
+      "5": "",
+      "id": 47
+    },
+    {
+      "6": "",
+      "id": 48
+    },
+    {
+      "1": "",
+      "id": 49
+    },
+    {
+      "2": "",
+      "id": 50
+    },
+    {
+      "3": "",
+      "id": 51
+    },
+    {
+      "1": "",
+      "id": 52
+    },
+    {
+      "2": "",
+      "id": 53
+    },
+    {
+      "3": "",
+      "id": 54
+    },
+    {
+      "1": "",
+      "id": 55
+    },
+    {
+      "2": "",
+      "id": 56
+    },
+    {
+      "3": "",
+      "id": 57
+    },
+    {
+      "4": "",
+      "id": 58
+    },
+    {
+      "1": "",
+      "id": 59
+    },
+    {
+      "0": "",
+      "id": 60
+    },
+    {
+      "0": "",
+      "id": 61
+    },
+    {
+      "0": "",
+      "id": 62
+    },
+    {
+      "2": "",
+      "id": 63
+    },
+    {
+      "3": "",
+      "id": 64
+    },
+    {
+      "0": "",
+      "id": 65
+    },
+    {
+      "1": "",
+      "id": 66
+    },
+    {
+      "2": "",
+      "id": 67
+    },
+    {
+      "3": "",
+      "id": 68
+    },
+    {
+      "4": "",
+      "id": 69
+    },
+    {
+      "5": "",
+      "id": 70
+    },
+    {
+      "0": "",
+      "id": 71
+    },
+    {
+      "1": "",
+      "id": 72
+    },
+    {
+      "2": "",
+      "id": 73
+    },
+    {
+      "0": "",
+      "id": 74
+    },
+    {
+      "1": "",
+      "id": 75
+    },
+    {
+      "2": "",
+      "id": 76
+    },
+    {
+      "3": "",
+      "id": 77
+    },
+    {
+      "0": "",
+      "id": 78
+    },
+    {
+      "1": "",
+      "id": 79
+    },
+    {
+      "2": "",
+      "id": 80
+    },
+    {
+      "3": "",
+      "id": 81
+    },
+    {
+      "0": "",
+      "id": 82
+    },
+    {
+      "1": "",
+      "id": 83
+    },
+    {
+      "2": "",
+      "id": 84
+    },
+    {
+      "0": "",
+      "id": 85
+    },
+    {
+      "1": "",
+      "id": 86
+    },
+    {
+      "2": "",
+      "id": 87
+    },
+    {
+      "0": "",
+      "id": 88
+    },
+    {
+      "1": "",
+      "id": 89
+    },
+    {
+      "2": "",
+      "id": 90
+    },
+    {
+      "3": "",
+      "id": 91
+    },
+    {
+      "0": "",
+      "id": 92
+    },
+    {
+      "1": "",
+      "id": 93
+    },
+    {
+      "2": "",
+      "id": 94
+    },
+    {
+      "3": "",
+      "id": 95
+    },
+    {
+      "0": "",
+      "id": 96
+    },
+    {
+      "1": "",
+      "id": 97
+    },
+    {
+      "2": "",
+      "id": 98
+    },
+    {
+      "3": "",
+      "id": 99
+    },
+    {
+      "4": "",
+      "id": 100
+    },
+    {
+      "1": "",
+      "id": 101
+    },
+    {
+      "1": "",
+      "id": 102
+    },
+    {
+      "0": "",
+      "id": 103
+    },
+    {
+      "1": "",
+      "id": 104
+    },
+    {
+      "2": "",
+      "id": 105
+    },
+    {
+      "3": "",
+      "id": 106
+    }
+  ],
+  "user": [
+    {
+      "id": 1,
+      "name": "abc",
+      "phone_number": "123",
+      "email": "123@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "name": "xyz",
+      "phone_number": "113",
+      "email": "xyz@gmail.com",
+      "password": "113"
+    },
+    {
+      "name": "Hieu",
+      "phone_number": "123456",
+      "email": "hieu@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "name": "Bui",
+      "phone_number": "123456",
+      "email": "a@a",
+      "password": "123",
+      "id": 4
+    },
+    {
+      "name": "fafsa",
+      "phone_number": "safasf",
+      "email": "safasf@fdsfsd",
+      "password": "123",
+      "id": 5
+    }
+  ]
+}
